@@ -28,6 +28,7 @@
 - [ ] Create DAO for user crud
 - [ ] Add unit tests for DAO
 - [ ] Add user login/unique authorization tokens?
+- [ ] Add admin page for guest entry
 - [ ] Time log/journal entry
 
 ### Week 6
@@ -35,9 +36,9 @@
 - [ ] Research some Java 9 thing to throw in project
 - [ ] Set up continuous integration on Travis
 - [ ] Determine how to add endless scrolling on a webpage
-- [ ] 
 
 ### Week 7
 - [ ] Add weather API integration for location
 - [ ] Time log/journal entry
+- [ ] Incorporate auto-response emails through SendGrid
 
