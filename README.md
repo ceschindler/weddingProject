@@ -29,7 +29,8 @@ for that day.
 * Travis CI (Independent research topic)
 * Optional add-ons (Choosing at least one)
     * SendGrid (Auto-Response emails)
-    * Java 9 goodies (Possible independent research topic)
+    * Java 9 goodies (Professional development topic)
+
     
 ## Design
 * [Screen Design](designDocuments/WeddingDesign.epgz)
