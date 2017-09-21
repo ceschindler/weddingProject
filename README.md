@@ -26,10 +26,9 @@ for that day.
 * Unit Testing
     * JUnit tests to achieve 80% coverage
 * Site and database hosted on AWS or Digital Ocean.
-
+* Travis CI (Independent research topic)
 * Optional add-ons (Choosing at least one)
     * SendGrid (Auto-Response emails)
-    * Travis CI (Possible independent research topic)
     * Java 9 goodies (Possible independent research topic)
     
 ## Design
