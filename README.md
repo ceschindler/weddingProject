@@ -33,7 +33,7 @@ for that day.
 
     
 ## Design
-* [Screen Design](designDocuments/WeddingDesign.epgz)
+* [Screen Design](designDocuments/WeddingDesign.pdf)
 * [Application Flow](designDocuments/applicationFlow.md)
 * [Database Design](designDocuments/databaseDiagram.png)
 
