@@ -39,4 +39,3 @@ for that day.
 
 ## [Project Plan](projectPlan.md)
 ## [Time Log](timeLog.md)
-## [Journal](journal.md)
